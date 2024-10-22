@@ -26,3 +26,6 @@ Use cross validation to evaluate the model. Use metrics like accuracy, precision
 
 ### 7. Export Model
 Use pickel to export the model
+
+We'll try to follow the following tutorial
+[Tutorial](https://medium.com/@azimkhan8018/email-spam-detection-with-machine-learning-a-comprehensive-guide-b65c6936678b)
